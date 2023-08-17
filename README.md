@@ -1,3 +1,11 @@
+### Available for job
+
+I'm currently (August 2023) open for job:
+
+- Role: Mid/Senior Clojure Developer/Engineer.
+- Type: full-time, remote or on-site.
+- Resume: [sergey-trofimov_2023_clojure.pdf](https://drive.google.com/file/d/1cWfn3JedycBFNek-VVUJXnAiYh2vkXHh/view?usp=drive_link).
+
 ### Projects
 
 - [strojure](https://github.com/strojure) – collection of Clojure(Script) libraries.
