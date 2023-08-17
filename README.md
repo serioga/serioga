@@ -1,4 +1,6 @@
-### Hi there 👋
+### Projects
+
+- [strojure](https://github.com/strojure) – collection of Clojure(Script) libraries.
 
 <!--
 **serioga/serioga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
