@@ -10,6 +10,10 @@ I'm currently (August 2023) open for job:
 
 - [strojure](https://github.com/strojure) – collection of Clojure(Script) libraries.
 
+### For developers
+
+- [Iosevka ST](https://github.com/serioga/iosevka-st) – Custom build of the Iosevka font.
+
 <!--
 **serioga/serioga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
