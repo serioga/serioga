@@ -1,9 +1,9 @@
-### Available for job
+Web developer for over two decades.\
+Clojure developer since 2016.
 
-I'm currently (August 2023) open for job:
+Open to new opportunities as Clojure(Script) developer:
 
-- Role: Mid/Senior Clojure Developer/Engineer.
-- Type: full-time, remote or on-site.
+- LinkedIn: https://www.linkedin.com/in/sergey-trofimov-name/
 - Resume: [sergey-trofimov_2023_clojure.pdf](https://drive.google.com/file/d/1cWfn3JedycBFNek-VVUJXnAiYh2vkXHh/view?usp=drive_link).
 
 ### Projects
